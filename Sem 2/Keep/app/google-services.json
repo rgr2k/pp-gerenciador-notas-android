@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "273062699194",
+    "firebase_url": "https://keep-99728.firebaseio.com",
+    "project_id": "keep-99728",
+    "storage_bucket": "keep-99728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273062699194:android:14c47d66bcbbdc45",
+        "android_client_info": {
+          "package_name": "schoolofnet.com.keep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273062699194-6qms4tv8dcvq6k87a8v5irqt84b7hfnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc0Q9f32Z792nmeO5NrEbDLK_V5WrkSVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

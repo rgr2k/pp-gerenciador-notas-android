@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Keep</string>
+    <string name="action_logout">Logout</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_login">Login</string>
+    <string name="action_text_register">Do not have account yet? Register here</string>
+    <string name="action_text_login">Already have account? Login here</string>
+    <string name="error_valid_email">Enter valid e-mail</string>
+    <string name="error_password">Enter valid password</string>
+    <string name="error_title">Enter valid title</string>
+    <string name="error_body">Enter valid body</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_main">Main</string>
+    <string name="hint_title_note">Title Note</string>
+    <string name="hint_body_note">Body Note</string>
+    <string name="btn_create">Create</string>
+</resources>
